@@ -47,9 +47,9 @@ This project is a POC web application demonstrating the use of facial recognitio
 
 ![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/XI%20-jinping.png?raw=true "App UI")
 
-### Image Recognition of my Self
 
-![Alt text](https://github.com/sonu275981/Face-Recognition-Attendance-System/blob/9351f601b8f0d0ebda517dc815f91cb1d4a119f6/demo/camera1.png?raw=true "App UI")
+
+
 
 ### Image Recognition of XI-jinping
 
